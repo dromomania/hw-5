@@ -20,6 +20,12 @@ h2 {
   text-align: center;
 }
 
+hr {
+  width: 170px;
+  background-color: #EC7979;
+  size: 1 px;
+  text-align: center;
+}
 .subtitle {
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
